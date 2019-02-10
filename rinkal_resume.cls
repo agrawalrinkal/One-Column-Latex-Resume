@@ -63,30 +63,6 @@ Last Updated on
 \titleformat{\section}{\color{headings}
 \scshape\fontspec[Path = fonts/lato/]{Lato-Reg}\fontsize{15pt}{23pt}\selectfont \raggedright\uppercase}{} {0em}{}
 
-% \titleformat{\section}[block]{
-%         \color{headings}
-%         \scshape
-%         \fontspec[Path = fonts/lato/]{Lato-Reg}
-%         \fontsize{16pt}{23pt}
-%         \selectfont
-%         \uppercase
-%         \filcenter}{}{0em}{}
-
-% \titleformat{\section}{\color{headings}
-% \scshape\fontspec[Path = fonts/lato/]{Lato-Reg}\fontsize{16pt}{23pt}\selectfont \raggedright\uppercase}{} {0em}{}
-
-% \titleformat{\section}{
-%     \centering{
-%         \color{headings}
-%         \scshape
-%         \fontspec[Path = fonts/lato/]{Lato-Reg}
-%         \fontsize{16pt}{23pt}
-%         \selectfont 
-%         \raggedright
-%         \uppercase}{} {0em}{}
-%     }
-% }
-
 % Subheadings command
 \titleformat{\subsection}{\color{subheadings}
 \fontspec[Path = fonts/lato/]{Lato-Bol}\fontsize{12pt}{12pt}\selectfont\bfseries\uppercase}{}{0em}{}
